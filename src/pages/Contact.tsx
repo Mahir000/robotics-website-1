@@ -8,6 +8,7 @@ export const Contact: React.FC = () => {
       <div>
         <Member name="Mahir Mansoor" email="mmansoor@wigstonstudents.org">
           Enter Text Here.
+          <p>Test.</p>
         </Member>
         <Member name="Callum Chandler" email="cchandler@wigstonstudents.org">
           Enter text Here.
